@@ -5,4 +5,4 @@ Petit test de repository.
 
 L'application servira à tester le positionnement d'un site internet sur plusieurs mots clés. On pourra également suivre la concurrence.
 
-<a href="https://www.arnauddecurninge.fr">Arnaud Decurninge</a>
+<a href="https://www.arnauddecurninge.fr" rel="follow">Arnaud Decurninge</a>
